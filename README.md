@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://amik33.github.io/44-grupe-serlokas/
+Site published at: https://amik33.github.io/44-grupe-lempute/
 
 Design: [Lempute](https://dribbble.com/shots/2449522-404-Page-Day-007)
 
